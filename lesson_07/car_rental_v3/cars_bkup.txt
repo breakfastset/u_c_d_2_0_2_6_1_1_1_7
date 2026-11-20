@@ -1,0 +1,6 @@
+BYD,Seal,B,5
+Hyundai,Avante,A,7
+Rolls Royce,My Lady,B,3
+BMW,X7,B,4
+Toyota,Estima,B,5
+Proton,Emas,A,6
